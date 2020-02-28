@@ -8,4 +8,9 @@ I joined this direction out of interest and curiosity on front-end development, 
 
 You can find some projects and UI components I did, etc.
 
+#### Which project is my favorate?
+
+xxtiyubu https://hazu.xxtiyubu.club
+
+
 
